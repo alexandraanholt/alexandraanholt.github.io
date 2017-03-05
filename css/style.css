@@ -3,7 +3,6 @@
 	color: pink;	
 	font-family:'Amatic SC', cursive;
 	font-size: 70px;
-
 } 
 
 .treeimg {
@@ -13,15 +12,26 @@
 	background-color: pink;
 	background-blend-mode: hard-light;
 	height: 400px;
-
 }
 
 .pagebox {
 	text-align: center;
-
 }
 
 .margin {
 	margin-bottom: 35px;
-
 }
+
+.navbar-brand {
+	padding-top: 0px;
+    margin-top: -10;
+}
+
+.profile {
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+
+.container-outer { overflow: scroll; width: 1200px; height: 410px;
+scroll-behavior: horizontal }
+.container-inner { width: 10000px; }
