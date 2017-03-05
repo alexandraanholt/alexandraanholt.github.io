@@ -1,0 +1,27 @@
+.title {
+	text-align: center;
+	color: pink;	
+	font-family:'Amatic SC', cursive;
+	font-size: 70px;
+
+} 
+
+.treeimg {
+	background-image: url("../img/100.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: pink;
+	background-blend-mode: hard-light;
+	height: 400px;
+
+}
+
+.pagebox {
+	text-align: center;
+
+}
+
+.margin {
+	margin-bottom: 35px;
+
+}
